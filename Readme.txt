@@ -3,7 +3,7 @@ PROJECT README
 ============================================================
 
 Project Name:
-CODMGO Landing Page – CODM Software
+CODMGO – CODM Software
 
 Project URL:
 https://codmgo.codmsoftware.com
