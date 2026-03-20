@@ -863,7 +863,8 @@ h6 {
   display: inline-block;
   padding-right: 10px;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
-}
+} 
+
 
 /*--------------------------------------------------------------
 # Global Sections
